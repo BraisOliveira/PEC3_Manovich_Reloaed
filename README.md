@@ -1,14 +1,14 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+### Evernote y Microsoft Teams 
 
 
-Autor: 
+Autor: Brais Oliveira Snjurjo
 
 
 Fecha: 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/c/c1/Cuermello.png)
 
 
 
