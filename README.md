@@ -8,7 +8,7 @@ Autor: Brais Oliveira Sanjurjo
 
 Fecha: 
 
-![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/c/c1/Cuermello.png)
+![Imagen de un animal con cuerpo de camello y cabeza de ave](https://upload.wikimedia.org/wikipedia/commons/c/c1/Cuermello.png)
 
 
 
@@ -129,17 +129,34 @@ Evernote es una aplicación de notas digitales multimedia, centrada en la organi
 
 - Aplicación móvil
 - Aplicación de escritorio
-- Navegador
+- Navegador web
 
 Dentro de su segmento de mercado compite con otras aplicaciones como Notion, aunque Evernote está reconocida como una de las mejores en el campo de organización de notas.
 Si bien puede ser utilizada por profesionales de diferentes ámbitos, no está pensada para entornos empresariales de gran tamaño.
 Tiene un nicho de mercado muy claro en estudiantes y empleados autónomos.
 
 ¿Dónde se guardan finalmente estos documentos manejados por Evernote?
-En el pasado, Evernote emplazaba toda esta documentación en sus propio CPD, sin embargo, con el crecimiento del proyecto el sistema se volvía difícilmente escalable.
+En el pasado, Evernote emplazaba toda esta documentación en su propio CPD, sin embargo, con el crecimiento del proyecto el sistema se volvía difícilmente escalable.
 Hoy en día, confían la tarea de alamacenamiento a *Google Cloud Platform*. 
 
+### Análisis rápido de Evernote
 
+Se estructura en base a **notas** que se agrupan en **libretas**, y a las que se pueden otorgar **etiquetas** que actúan como metadatos útiles para el filtrado en futuras búsquedas ya que se pueden dar las mismas etiquetas a notas que están en libretas distintas.
+
+![Creación de nota en Evernote](./media/evernoteNota.JPG)
+
+
+## Algunos usos potenciales
+
+#### Compartir notas
+
+Funcionalidad de trabajo colaborativo, que nos permite enviar un enlace a una nota concreta a otro usuario que tenga cuenta en el programa.
+
+#### Esbozar
+
+Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alzada si se dispone de tableta digitalizadora o pantalla táctil. Las opciones son limitadas para un artista, pero suficientes para un estudiante re-mediando una libreta. 
+
+![Gif animado de la herramienta Esbozar de Evernotes en acción](./media/esbozar.gif)
 ## Conclusiones
 
 
@@ -147,7 +164,9 @@ Hoy en día, confían la tarea de alamacenamiento a *Google Cloud Platform*.
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
-* Datadog: Cómo ofrecer a Evernote una visibilidad sin precedentes para servicios competitivos en la nube . Google Cloud. https://cloud.google.com/customers/evernote?hl=es-419
+* **Le damos la vienvenida a Microsoft Teams**. Microsoft Docs. https://docs.microsoft.com/es-es/microsoftteams/teams-overview
+
+* **Datadog: Cómo ofrecer a Evernote una visibilidad sin precedentes para servicios competitivos en la nube**. Google Cloud. https://cloud.google.com/customers/evernote?hl=es-419
 
 
 
