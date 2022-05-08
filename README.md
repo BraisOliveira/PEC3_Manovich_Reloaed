@@ -19,7 +19,7 @@ Fecha:
  
  *Hibridación* es el término escogido por Lev Manovich en su libro *El software toma el mando* para señalar un paso adelante en la integración de medios con respecto al término *multimedia*, utilizando leyes de la genética mendeliana como metáfora para abordar los procesos de variabilidad y modularidad.
 
- >la  biología  evolutiva  nos  proporciona  un  modelo  del  espacio  de  los objetos, mucho más amplio, cuyas identidades se superponen. Este modelo encaja mucho mejor con mi teoría de la cultura del software como un conjunto amplio y en continuo crecimiento  de  técnicas  que  pueden  combinarse  de  muchas  maneras,  en  forma  de aplicaciones, y proyectos/productos creados para ellas, o a través de una programación personalizada - Lev Manovich (El software toma el mando, 2013)
+ >*"(...)la  biología  evolutiva  nos  proporciona  un  modelo  del  espacio  de  los objetos, mucho más amplio, cuyas identidades se superponen. Este modelo encaja mucho mejor con mi teoría de la cultura del software como un conjunto amplio y en continuo crecimiento  de  técnicas  que  pueden  combinarse  de  muchas  maneras,  en  forma  de aplicaciones, y proyectos/productos creados para ellas, o a través de una programación personalizada" - Lev Manovich (El software toma el mando, 2013)*
 
 De esta manera, mientras los programas multimedia vienieron a ofrecer un biotopo adecuado para la convivencia de diferentes lenguajes, los programas híbridos remezlcan estos medios para fundirlos, dando como resultado un nuevo metalenguaje.
 
@@ -27,6 +27,7 @@ En el presente ensayo veremos los casos de dos programas enfocados en la product
 
 
 ## Re-descubriendo la hibridacion: Microsoft Teams
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Microsoft_Teams.png" alt="isotipo Teams" width="200"/>
 
 Productividad desde cualquier lugar, desde cualquier dispositivo, en cualquier momento. Eso es lo que propone Microsoft 365, un compendio de herramientas que han ido evolucionando sin detenerse hasta nuestros días y alcanzar un nivel de madurez que las convierten en patrón oro en cuanto a trabajo colaborativo empresarial. Una de estas herramientas es Teams.
 
@@ -76,7 +77,7 @@ __Llamadas y reuiniones__
 Teams está integrado con el calendario de Outlook (cliente de correo de Microsoft) para que se puedan agendar reuniones o llamadas.
 Esto también se puede hacer desde la propia aplicación de Teams.
  
-### Usos potenciales
+### Algunos usos potenciales
 
 Dentro de Teams se integra una cantidad inabarcable de aplicaciones de mucha utilidad y que ofrecen soluciones a la práctica totalidad requerimientos de una oficina, tanto presencial como de trabajo remoto. Es llegados a este punto donde se aprecia el proceso de hibridación.
 Se han seleccionado algunas para analizar como ejemplo.
@@ -122,18 +123,32 @@ Funciona de manera similar a Visio, programa de Microsoft que sin embargo no tie
 
 
 ## Re-descubriendo la hibridacion: Evernote
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Evernote_Icon.svg" alt="imagotipo Evernote" width="220"/>
 
-+ Definicion
-+ Cloud 
-+ Analisis rapido
-+ Añadir imagenes
+Evernote es una aplicación de notas digitales multimedia, centrada en la organización de información y actividad diaria. Se puede usar de tres maneras.
+
+- Aplicación móvil
+- Aplicación de escritorio
+- Navegador
+
+Dentro de su segmento de mercado compite con otras aplicaciones como Notion, aunque Evernote está reconocida como una de las mejores en el campo de organización de notas.
+Si bien puede ser utilizada por profesionales de diferentes ámbitos, no está pensada para entornos empresariales de gran tamaño.
+Tiene un nicho de mercado muy claro en estudiantes y empleados autónomos.
+
+¿Dónde se guardan finalmente estos documentos en los que se está trabajando con Evernote?
+En el pasado, Evernote emplazaba toda esta documentación en sus propio CPD, sin embargo, con el crecimiento del proyecto el sistema se volvía difícilmente escalable.
+Hoy en día, confían la tarea de alamacenamiento a *Google Cloud Platform*. 
+
 
 ## Conclusiones
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+
+* Datadog: Cómo ofrecer a Evernote una visibilidad sin precedentes para servicios competitivos en la nube . Google Cloud. https://cloud.google.com/customers/evernote?hl=es-419
+
 
 
 ----
