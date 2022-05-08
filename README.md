@@ -135,7 +135,7 @@ Dentro de su segmento de mercado compite con otras aplicaciones como Notion, aun
 Si bien puede ser utilizada por profesionales de diferentes ámbitos, no está pensada para entornos empresariales de gran tamaño.
 Tiene un nicho de mercado muy claro en estudiantes y empleados autónomos.
 
-¿Dónde se guardan finalmente estos documentos en los que se está trabajando con Evernote?
+¿Dónde se guardan finalmente estos documentos manejados por Evernote?
 En el pasado, Evernote emplazaba toda esta documentación en sus propio CPD, sin embargo, con el crecimiento del proyecto el sistema se volvía difícilmente escalable.
 Hoy en día, confían la tarea de alamacenamiento a *Google Cloud Platform*. 
 
