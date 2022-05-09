@@ -23,7 +23,7 @@ Fecha:
 
 De esta manera, mientras los programas multimedia vienieron a ofrecer un biotopo adecuado para la convivencia de diferentes lenguajes, los programas híbridos remezlcan estos medios para fundirlos, dando como resultado un nuevo metalenguaje.
 
-En el presente ensayo veremos los casos de dos programas enfocados en la productividad para tareas de escritorio, **Microsoft Teams** y **Evernote**.
+En el presente ensayo veremos los casos de dos programas enfocados en la productividad para tareas de escritorio, **Microsoft Teams** y **Evernote**, encuadrados dentro el paradigma de hibridación de medios.
 
 
 ## Re-descubriendo la hibridacion: Microsoft Teams
@@ -122,6 +122,9 @@ Aplicación para hacer diagramas de procesos exportables en diferentes formatos.
 Funciona de manera similar a Visio, programa de Microsoft que sin embargo no tiene integración en Teams. Podría pensarse en que es porque Visio se licencia por separado y no está incluído en ninguna licencia Microsoft 365, pero no parece esta una limitación real, teniendo en cuenta que otros programas que sí tienen buena integración, como Acrobat de Adobe, funcionan mediante login para comprobar la vigencia de la licencia.
 
 
+---
+
+
 ## Re-descubriendo la hibridacion: Evernote
  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Evernote_Icon.svg" alt="imagotipo Evernote" width="220"/>
 
@@ -158,7 +161,9 @@ Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alz
 
 ![Gif animado de la herramienta Esbozar de Evernotes en acción](./media/esbozar.gif)
 ## Conclusiones
-
+Tomar esta frase como inspiración -> "Este entorno de producción híbrida, condensado en una única aplicación de software" | para hablar de casos concretos en ambos programas: 
+    post it , esbozar, correo Evernote
+    Teams realmente hibrida por todos lados, intentar no extender el ensayo demasiado
 
 ### Referencias y Bibliografía
 
@@ -170,6 +175,6 @@ Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alz
 
 
 
-----
+---
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
