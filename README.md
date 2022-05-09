@@ -165,6 +165,12 @@ Tomar esta frase como inspiración -> "Este entorno de producción híbrida, con
     post it , esbozar, correo Evernote
     Teams realmente hibrida por todos lados, intentar no extender el ensayo demasiado
 
+    "y recordad a Manovich!!!
+
+El reto no es describir de forma exhaustiva y precisa el caso seleccionado (eso es sólo uno o dos párrafos para situar en contexto al lector), sino que es hablar de cómo sucede la hibridación y por qué consideras que es un caso destacable (valoración personal)
+
+Adelante!!!  "
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
