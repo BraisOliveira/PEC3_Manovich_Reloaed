@@ -171,6 +171,14 @@ El reto no es describir de forma exhaustiva y precisa el caso seleccionado (eso 
 
 Adelante!!!  "
 
+"Hola Brais, 
+
+Es un análisis excelente y muy exhaustivo! 
+
+Sin embargo te recomiendo que lo leas detenidamente y destaques los apartados donde hablas de la hibridación (de qué otros medios se parte y cómo se fusionan), incluso puedes añadir alguna valoración personal. Me da la impresión que es más descriptivo (de las aplicaciones) que analítico y creo que tienes material como para enfocarlo según Manovich!! 
+
+Saludos "
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
