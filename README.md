@@ -180,7 +180,7 @@ Pero ahora estaríamos hablando de:
   - silenciar el propio entorno, o no oir a los compañeros sin salir de la reunión
   - *blurear* o simular diferentes fondos tras nuestra figura
 
-Todo sin salir de una única apliación de software, desde cualquier parte del planeta y de una manera técnicamente transparente al usuario.
+Todo sin salir de una única aplicación de software, desde cualquier parte del planeta y de una manera técnicamente transparente al usuario.
 
 Estamos, por lo tanto, ante un caso en el que Teams no solo re-media procesos analógicos, si no que añade funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
 
