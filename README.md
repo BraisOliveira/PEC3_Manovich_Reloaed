@@ -173,13 +173,14 @@ Pensemos en el ejemplo de añadir una tabla de Excel en una hoja de Word. Esto n
 
 Pero ahora estaríamos hablando de:
 - poner una tabla Excel en un Word mientras presentamos el proceso en directo por videoconferencia 
-- con un grupo de personas que podrían estar editando el texto a su vez teniendo acceso al mismo desde cualquier parte del planeta
+- con un grupo de personas que podrían estar editando el texto a su vez
 - pudiendo interactuar en un chat 
 - con botones habilitados en la interfaz para:
   - *levantar la mano* para pedir la palabra
   - silenciar el propio entorno, o no oir a los compañeros sin salir de la reunión
+  - *blurear* o simular diferentes fondos tras nuestra figura
 
-Todo sin salir de una única apliación de software y de una manera técnicamente transparente al usuario.
+Todo sin salir de una única apliación de software, desde cualquier parte del planeta y de una manera técnicamente transparente al usuario.
 
 Estamos, por lo tanto, ante un caso en el que Teams no solo re-media procesos analógicos, si no que añade funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
 
