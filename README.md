@@ -84,11 +84,7 @@ Se han seleccionado algunas para analizar como ejemplo.
 
 #### Office
 
-Pensemos en el ejemplo de añadir una tabla de Excel en una hoja de Word. Esto no es nuevo. Pero ahora estaríamos hablando de poner una tabla Excel en un Word mientras presentamos el proceso en directo por videoconferencia con un grupo de personas que podrían estar editando el texto a su vez teniendo acceso al mismo desde cualquier parte del planeta, todo sin salir de Teams y de una manera técnicamente transparente al usuario.
-
-Estamos, por lo tanto, ante un caso en el que el software no solo re-media procesos analógicos, si no que añade funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
-
-Parece un ejemplo de hibridación bastante potente. Pero eso no es todo.
+Todas las aplicaciones de MS Office excepto Access tienen integración nativa en Teams. Se puede editar directamente sin salir de la aplicación, aunque para desarrollos complejos en Excel, sigue siendo mejor la experiencia en la aplicación de escritorio para la mayor parte de usuarios.
 
 #### Task Planner
 
@@ -100,7 +96,7 @@ También se puede establecer prioridades, actualizar los progresos y poner fecha
 #### Aprobaciones
 
 Aplicación para pedir aprobación a un responsable de cualquier tema relacionado con procesos de cualquier índole.
-Aunque este proceso ya se esté llevando con éxito vía correo electrónico, es una opción que ejemplifica como Teams puede llegar a ser una oficina virtual con todo lo que se pueda necesitar.
+Aunque este proceso ya se esté llevando con éxito vía correo electrónico, es una opción que ejemplifica como Teams puede llegar a ser una oficina virtual con todo lo que se pueda necesitar.Bl
 
 ![Aprobaciones](./media/aprobaciones.jpg)
 
@@ -157,19 +153,45 @@ Funcionalidad de trabajo colaborativo, que nos permite enviar un enlace a una no
 
 #### Esbozar
 
-Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alzada si se dispone de tableta digitalizadora o pantalla táctil. Las opciones son limitadas para un artista, pero suficientes para un estudiante re-mediando una libreta. 
+Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alzada si se dispone de tableta digitalizadora o pantalla táctil. Las opciones son limitadas para un artista, pero suficientes para un estudiante re-mediando una libreta.
+
 
 ![Gif animado de la herramienta Esbozar de Evernotes en acción](./media/esbozar.gif)
+
+
+### Post-it
+
+
 ## Conclusiones
+
+Basten los ejemplos anteriores como base analítica que nos pone en contexto sobre como la evolución del software de productividad y ofimática recorre la senda de la hibridación. 
+En todos los casos analizamos se aprecian nuevas maneras de ineraccionar con medios previamente existentes.
+
+En el caso Teams, donde se re-median una cantidad inabarcable de procesos gracias a que Microsoft fomenta la **modularidad** en forma de plugins de desarrolladores externos, el caso paradigmático de hibridación, sería el que nos situa en un marco de trabajo colaborativo.
+
+Pensemos en el ejemplo de añadir una tabla de Excel en una hoja de Word. Esto no es nuevo. 
+
+Pero ahora estaríamos hablando de:
+- poner una tabla Excel en un Word mientras presentamos el proceso en directo por videoconferencia 
+- con un grupo de personas que podrían estar editando el texto a su vez teniendo acceso al mismo desde cualquier parte del planeta
+- pudiendo interactuar en un chat 
+- con botones habilitados en la interfaz para:
+  - *levantar la mano* para pedir la palabra
+  - silenciar el propio entorno, o no oir a los compañeros sin salir de la reunión
+
+Todo sin salir de una única apliación de software y de una manera técnicamente transparente al usuario.
+
+Estamos, por lo tanto, ante un caso en el que Teams no solo re-media procesos analógicos, si no que añade funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
+
+Por otro lado, no existe un marco diferenciado en el proceso para cada medio. Al contrario que en la **multimedia** tradicional, todo se produce en un mismo canal y de manera simultánea.
+
+
+Parece un ejemplo de hibridación bastante potente. Pero eso no es todo.
+
+
 Tomar esta frase como inspiración -> "Este entorno de producción híbrida, condensado en una única aplicación de software" | para hablar de casos concretos en ambos programas: 
     post it , esbozar, correo Evernote
     Teams realmente hibrida por todos lados, intentar no extender el ensayo demasiado
-
-    "y recordad a Manovich!!!
-
-El reto no es describir de forma exhaustiva y precisa el caso seleccionado (eso es sólo uno o dos párrafos para situar en contexto al lector), sino que es hablar de cómo sucede la hibridación y por qué consideras que es un caso destacable (valoración personal)
-
-Adelante!!!  "
 
 "Hola Brais, 
 
@@ -179,6 +201,8 @@ Sin embargo te recomiendo que lo leas detenidamente y destaques los apartados do
 
 Saludos "
 
+"la experiencia del usuario es fragmentada. Si uno lee el texto, no puede ver a la vez el vídeo, ni observar las imágenes. Cada elemento tiene su marco de visualización aislado del resto. En los medios híbridos -en cambio- uno experimenta todos los elementos en conjunto." -> reunión de Teams con chat, presentaciones, ... Revisar marcos no aislados en Evernote
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
@@ -186,6 +210,8 @@ Saludos "
 * **Le damos la vienvenida a Microsoft Teams**. Microsoft Docs. https://docs.microsoft.com/es-es/microsoftteams/teams-overview
 
 * **Datadog: Cómo ofrecer a Evernote una visibilidad sin precedentes para servicios competitivos en la nube**. Google Cloud. https://cloud.google.com/customers/evernote?hl=es-419
+
+* **Remediación, multimedia e hibridación de los medios**. Ferrán Andell. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
 
 
