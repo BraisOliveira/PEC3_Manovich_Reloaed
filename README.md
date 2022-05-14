@@ -31,8 +31,9 @@ En el presente ensayo veremos los casos de dos programas enfocados en la product
 
 Productividad desde cualquier lugar, desde cualquier dispositivo, en cualquier momento. Eso es lo que propone Microsoft 365, un compendio de herramientas que han ido evolucionando sin detenerse hasta nuestros días y alcanzar un nivel de madurez que las convierten en patrón oro en cuanto a trabajo colaborativo empresarial. Una de estas herramientas es Teams.
 
-Teams es un área de trabajo virtual, una oficina completa desde la que comunicarse de manera asíncrona (chat directo, chat grupal, mensajes de texto en grupos y canales) o hacer videoconferencias N a N.
-En Teams está integrada toda la suite de MS Office. Esto permite editar documentos a todo un grupo de trabajo en tiempo real mientras se hace una videoconferencia, independientemente de la localización física de los usuarios implicados.
+Teams es un área de trabajo virtual, una oficina completa desde la que comunicarse de manera asíncrona (chat directo, chat grupal, mensajes de texto en grupos y canales) o hacer videoconferencias *N a N*.
+
+En Teams está integrada toda la suite de MS Office.
 
 ¿Dónde se guardan finalmente estos documentos en los que se está trabajando en Teams?
 Microsoft 365 se basa en la nube **Azure**. Dentro de la nube existen dos localizaciones, SharePoint y OneDrive.
@@ -44,7 +45,6 @@ Cada equipo de Teams crea su respectivo enlace en SharePoint.
 
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/OneDrive_logo_and_wordmark.svg" alt="logotipo OneDrive" width="200"/>
 
-
 OneDrive está pensado para que el usuario guarde sus documentos de trabajo. Es un disco duro virtual sincronizado para ser accesible desde internet con 1Tb de capacidad por usuario.
 
 Por hacer un símil sencillo, en SharePoint se guarda lo que se almacenaría en el servidor, en OneDrive se guarda lo que los usuarios tendrían en el disco duro de su PC.
@@ -55,7 +55,7 @@ Los archivos en la nube pueden tener una copia sincronizada en los ordenadores p
 
 ### Análisis rápido de Teams
 
-Como se ha mencionado anteriormente, Teams es una oficina llevada al terreno intangible pero habitable de lo virtual. En una sociedad que tiende cada vez más y por diferentes motivos a la deslocalización del entorno laboral, integra todo lo que en el pasado eran diferentes aplicaciones corriendo en el *metamedio ordenador* en una sola aplicación, creando una experiencia en la que para un usuario no técnico, se antoja difícil saber donde terrmina un software y comienza otro.
+Teams es una oficina llevada al terreno intangible pero habitable de lo virtual. En una sociedad que tiende cada vez más y por diferentes motivos a la deslocalización del entorno laboral, integra todo lo que en el pasado eran diferentes aplicaciones corriendo en el *metamedio ordenador* y en una sola aplicación, creando una experiencia en la que para un usuario no técnico, se antoja difícil saber donde terrmina un software y comienza otro.
 
 La estructura de Teams es la siguiente
 
@@ -79,7 +79,8 @@ Esto también se puede hacer desde la propia aplicación de Teams.
  
 ### Algunos usos potenciales
 
-Dentro de Teams se integra una cantidad inabarcable de aplicaciones de mucha utilidad y que ofrecen soluciones a la práctica totalidad requerimientos de una oficina, tanto presencial como de trabajo remoto. Es llegados a este punto donde se aprecia el proceso de hibridación.
+Dentro de Teams se integra una cantidad inabarcable de aplicaciones de mucha utilidad y que ofrecen soluciones a la práctica totalidad requerimientos de una oficina, tanto presencial como de trabajo remoto.
+
 Se han seleccionado algunas para analizar como ejemplo.
 
 #### Office
@@ -161,13 +162,17 @@ Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alz
 
 ### Post-it
 
+Colaboración entre la empresa 3M y Evernote para llevar el buque insignia de la primera del mundo analógico al digital.
+Básicamente consiste en utilizar la cámara de un smartphone donde esté instalado el programa Evernote para escanear un Post-it (preferentemente en formato cuadrado de 3 o 9 centímetros de lado y de los colores amarillo, rosa, azul o lima).
+La IA puede diferenciar hasta 200 Post-it por escaneo, y aunque no se promociona oficialmente escanear documentos como un bloc de notas o una pizarra.
+
 
 ## Conclusiones
 
 Basten los ejemplos anteriores como base analítica que nos pone en contexto sobre como la evolución del software de productividad y ofimática recorre la senda de la hibridación. 
-En todos los casos analizamos se aprecian nuevas maneras de ineraccionar con medios previamente existentes.
-
-En el caso Teams, donde se re-median una cantidad inabarcable de procesos gracias a que Microsoft fomenta la **modularidad** en forma de plugins de desarrolladores externos, el caso paradigmático de hibridación, sería el que nos situa en un marco de trabajo colaborativo.
+En todos los casos analizados se aprecian nuevas maneras de interaccionar con medios previamente existentes, bajo un modelo de **hibridación por yuxtaposición**, esto es, un tipo de software en el que proceso de hibridación no pretende ser "invisible". 
+### Teams
+En el caso de **Teams**, donde se re-median gran cantidad  de procesos gracias a que Microsoft fomenta la **modularidad** en forma de plugins de desarrolladores externos, el caso paradigmático de hibridación, sería el que nos situa en un marco de trabajo colaborativo.
 
 Pensemos en el ejemplo de añadir una tabla de Excel en una hoja de Word. Esto no es nuevo. 
 
@@ -180,33 +185,42 @@ Pero ahora estaríamos hablando de:
   - silenciar el propio entorno, o no oir a los compañeros sin salir de la reunión
   - *blurear* o simular diferentes fondos tras nuestra figura
 
-Todo sin salir de una única aplicación de software, desde cualquier parte del planeta y de una manera técnicamente transparente al usuario.
+Todo desde una única aplicación de software y desde cualquier parte del planeta y con una experiencia de usuairo que necesita una curva de aprendizaje realmente pequeña.
 
-Estamos, por lo tanto, ante un caso en el que Teams no solo re-media procesos analógicos, si no que añade funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
+Estamos, por lo tanto, ante un caso en el que Teams re-media procesos analógicos, añadiendo funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
 
 Por otro lado, no existe un marco diferenciado en el proceso para cada medio. Al contrario que en la **multimedia** tradicional, todo se produce en un mismo canal y de manera simultánea.
 
+### Evernote
 
-Parece un ejemplo de hibridación bastante potente. Pero eso no es todo.
+El ejemplo que seleccionamos en este caso es el de la funcionalidad de Post-it.
+
+Post-it es un producto de oficina destinado a la toma de notas rápidas, lo que lo alinea claramente con Evernote. Lo curioso es que Post-it ha sido tradicionalmente un meidio de notas informal, destinadas estas a desaparecer en breve lapso de tiempo, o cuando menos a no ser archivadas ni organizadas de manera escrupulosa — mención a parte merecen las contraseñas pegadas al monitor, y otros tipos de Post-it perennes —.
+
+Es un caso de hibridación con estructura de datos digitales continuos (mapa de bits) obtenidos desde una estructura analógica concreta (papel).
+
+Por lo tanto, este modelo simula un medio físico preexistente representándolo numéricamente para después otorgarle nuevas funcionalidades, como ser archivado siguiendo un patrón establecido por el usuario y guardado en la nube para su posterior acceso. 
+
+Evernote pone de relieve con esta aplicación el valor que sigue teniendo la toma de notas manuales, de manera que lejos de competir como cabría esperar, colabora con el proceso e intenta fundir la experiencia analógica y digital de manera orgánica, en un proceso lo más natural posible que parece seguir el enfoque lamarckiano de evolución, en el cual las nuevas capacidades aparecen de la necesidad concreta y existe un impulso vital hacia la perfección. 
+
+Finalmente, valorar desde el año 2022 a donde nos va a llevar este proceso en los años venideros puede resultar complejo, teniendo en cuenta la propia naturaleza de la hibridación de sotware.
+
+Según se viene aputando, campos como la realidad aumentada, realidad virutual, gemelos digitales e IoT ya están siendo clave y van a seguir aumentando su presencia e influencia en las vidas de la gente, pero también cabría esperar que incluso estas materias que ahora mantienen un marco más o menos definido, acabarán hibridando entre ellas para traer nuevos modelos ahora insospechados.
+
+El lenguaje, la posibilidad de comunicarnos, hizo de nosotros lo que somos como especie. Hace gran parte de lo que somos como personas, integrándonos en una red de otros seres a los que nosotros damos forma y de los que tomamos forma.
+
+El software que tantas veces se representa como algo novedoso, no es más que la pulsión comunicativa que siempre nos ha caracterizado, refinada a través de milenios. Somos nosotros escribiendo. Ni más ni menos. 
+
+Lo que sí se puede asegurar sin ningún género de dudas, es que vamos a seguir escribiendo, vamos a seguir comunicando cosas a nuestros semejantes y vamos crear no solo lo que necesitemos, si no lo que sea posible. Porque es algo que está en nuestro ADN. Si algo se puede hacer, será hecho. Y casi nada se hace de una pieza ya. Todo es híbrido.
 
 
-Tomar esta frase como inspiración -> "Este entorno de producción híbrida, condensado en una única aplicación de software" | para hablar de casos concretos en ambos programas: 
-    post it , esbozar, correo Evernote
-    Teams realmente hibrida por todos lados, intentar no extender el ensayo demasiado
 
-"Hola Brais, 
-
-Es un análisis excelente y muy exhaustivo! 
-
-Sin embargo te recomiendo que lo leas detenidamente y destaques los apartados donde hablas de la hibridación (de qué otros medios se parte y cómo se fusionan), incluso puedes añadir alguna valoración personal. Me da la impresión que es más descriptivo (de las aplicaciones) que analítico y creo que tienes material como para enfocarlo según Manovich!! 
-
-Saludos "
-
-"la experiencia del usuario es fragmentada. Si uno lee el texto, no puede ver a la vez el vídeo, ni observar las imágenes. Cada elemento tiene su marco de visualización aislado del resto. En los medios híbridos -en cambio- uno experimenta todos los elementos en conjunto." -> reunión de Teams con chat, presentaciones, ... Revisar marcos no aislados en Evernote
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+
+* Matewecki, Natalia. **Hibridaciones visibles e invisibles en arte y medios**. Universidad Nacional de la Plata: Facultad de Bellas Artes. http://sedici.unlp.edu.ar/bitstream/handle/10915/40562/Documento_completo.pdf?sequence=1
 
 * **Le damos la vienvenida a Microsoft Teams**. Microsoft Docs. https://docs.microsoft.com/es-es/microsoftteams/teams-overview
 
@@ -218,4 +232,4 @@ Saludos "
 
 ---
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) 
