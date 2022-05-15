@@ -29,7 +29,7 @@ En el presente ensayo veremos los casos de dos programas enfocados en la product
 ## Re-descubriendo la hibridacion: Microsoft Teams
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Microsoft_Teams.png" alt="isotipo Teams" width="200"/>
 
-Productividad desde cualquier lugar, desde cualquier dispositivo, en cualquier momento. Eso es lo que propone Microsoft 365, un compendio de herramientas que han ido evolucionando sin detenerse hasta nuestros días y alcanzar un nivel de madurez que las convierten en patrón oro en cuanto a trabajo colaborativo empresarial. Una de estas herramientas es Teams.
+Productividad desde cualquier lugar, desde cualquier dispositivo, en cualquier momento. Eso es lo que propone Microsoft 365, un compendio de herramientas que han ido evolucionando sin detenerse hasta nuestros días, alcanzando un nivel de madurez que las convierten en patrón oro en cuanto a trabajo colaborativo empresarial. Una de estas herramientas es Teams.
 
 Teams es un área de trabajo virtual, una oficina completa desde la que comunicarse de manera asíncrona (chat directo, chat grupal, mensajes de texto en grupos y canales) o hacer videoconferencias *N a N*.
 
@@ -55,7 +55,13 @@ Los archivos en la nube pueden tener una copia sincronizada en los ordenadores p
 
 ### Análisis rápido de Teams
 
-Teams es una oficina llevada al terreno intangible pero habitable de lo virtual. En una sociedad que tiende cada vez más y por diferentes motivos a la deslocalización del entorno laboral, integra todo lo que en el pasado eran diferentes aplicaciones corriendo en el *metamedio ordenador* y en una sola aplicación, creando una experiencia en la que para un usuario no técnico, se antoja difícil saber donde terrmina un software y comienza otro.
+ FICHA  |   |
+| -- | -- |
+| Género | **Ofimática** |
+| Desarrollador | **Microsoft Corporation** |
+| Fecha de lanzamiento | **14 Marzo 2017** |
+
+Teams es una oficina llevada al terreno intangible pero habitable de lo virtual. En una sociedad que tiende cada vez más y por diferentes motivos a la deslocalización del entorno laboral, integra todo lo que en el pasado eran diferentes aplicaciones corriendo en el *metamedio ordenador* y en una sola aplicación, creando una experiencia en la que para un usuario no técnico, se antoja difícil saber donde termina un software y comienza otro.
 
 La estructura de Teams es la siguiente
 
@@ -108,14 +114,14 @@ La posibilidad de personalización de la imagen de estas encuestas no es infinit
 
 #### GitHub
 
-Herramienta para el control de versiones de código fuente que es básica en el desarrollo de software y se está usando también para otros procesos colavorativos como el diseño gráfico.
+Herramienta para el control de versiones de código fuente que es básica en el desarrollo de software y se está usando también para otros procesos colaborativos como el diseño gráfico.
 
 
 Para no expandirme más, ya que creo que ha quedado claro la cantidad virtualmente ilimitada de aplicaciones que se integran en Teams, finalizo con un caso realmene curioso.
 
 #### Draw.io
 
-Aplicación para hacer diagramas de procesos exportables en diferentes formatos. Es un programa muy usado en instituciones como facultades de informñatica para diagramar bases de datos o UML de cualquier tipo. Tiene un buen banco de imágenes dependiendo de la materia sobre la que se esté trabajando (electrónica, ingeniería de software, planos de planta...)
+Aplicación para hacer diagramas de procesos exportables en diferentes formatos. Es un programa muy usado en instituciones como facultades de informática para diagramar bases de datos o UML de cualquier tipo. Tiene un buen banco de imágenes dependiendo de la materia sobre la que se esté trabajando (electrónica, ingeniería de software, planos de planta...)
 Funciona de manera similar a Visio, programa de Microsoft que sin embargo no tiene integración en Teams. Podría pensarse en que es porque Visio se licencia por separado y no está incluído en ninguna licencia Microsoft 365, pero no parece esta una limitación real, teniendo en cuenta que otros programas que sí tienen buena integración, como Acrobat de Adobe, funcionan mediante login para comprobar la vigencia de la licencia.
 
 
@@ -141,6 +147,12 @@ Hoy en día, confían la tarea de alamacenamiento a *Google Cloud Platform*.
 
 ### Análisis rápido de Evernote
 
+ FICHA  |   |
+| -- | -- |
+| Género | **Organizador de notas** |
+| Desarrollador | **Stepan Pachikov** |
+| Fecha de lanzamiento | **23 Junio 2008** |
+
 Se estructura en base a **notas** que se agrupan en **libretas**, y a las que se pueden otorgar **etiquetas** que actúan como metadatos útiles para el filtrado en futuras búsquedas ya que se pueden dar las mismas etiquetas a notas que están en libretas distintas.
 
 ![Creación de nota en Evernote](./media/evernoteNota.JPG)
@@ -154,7 +166,7 @@ Funcionalidad de trabajo colaborativo, que nos permite enviar un enlace a una no
 
 #### Esbozar
 
-Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alzada si se dispone de tableta digitalizadora o pantalla táctil. Las opciones son limitadas para un artista, pero suficientes para un estudiante re-mediando una libreta.
+Es una herramienta que permite realizar dibujos utilizando el ratón y a mano alzada si se dispone de tableta digitalizadora o pantalla táctil. Las opciones son limitadas para un artista, pero suficientes para un estudiante re-mediando una libreta.
 
 
 ![Gif animado de la herramienta Esbozar de Evernotes en acción](./media/esbozar.gif)
@@ -162,9 +174,9 @@ Es una herramienta que permite realizar dibujos utilizando en ratón, a mano alz
 
 ### Post-it
 
-Colaboración entre la empresa 3M y Evernote para llevar el buque insignia de la primera del mundo analógico al digital.
+Colaboración entre la empresa 3M y Evernote para llevar el buque insignia de 3M del mundo analógico al digital.
 Básicamente consiste en utilizar la cámara de un smartphone donde esté instalado el programa Evernote para escanear un Post-it (preferentemente en formato cuadrado de 3 o 9 centímetros de lado y de los colores amarillo, rosa, azul o lima).
-La IA puede diferenciar hasta 200 Post-it por escaneo, y aunque no se promociona oficialmente escanear documentos como un bloc de notas o una pizarra.
+La IA puede diferenciar hasta 200 Post-it por escaneo, y aunque no se promociona oficialmente, es posible escanear documentos como un bloc de notas o una pizarra.
 
 
 ## Conclusiones
@@ -185,9 +197,9 @@ Pero ahora estaríamos hablando de:
   - silenciar el propio entorno, o no oir a los compañeros sin salir de la reunión
   - *blurear* o simular diferentes fondos tras nuestra figura
 
-Todo desde una única aplicación de software y desde cualquier parte del planeta y con una experiencia de usuairo que necesita una curva de aprendizaje realmente pequeña.
+Todo desde una única aplicación de software y desde cualquier parte del planeta y con una experiencia de usuario que necesita una curva de aprendizaje realmente pequeña.
 
-Estamos, por lo tanto, ante un caso en el que Teams re-media procesos analógicos, añadiendo funcionalidades nuevas que optimizan procesos. Gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente, en este caso.
+Estamos, por lo tanto, ante un caso en el que Teams re-media procesos analógicos, añadiendo funcionalidades nuevas que optimizan procesos. Veamos que gente que esté en la misma oficina, debería simular que trabaja en remoto para ser más eficiente.
 
 Por otro lado, no existe un marco diferenciado en el proceso para cada medio. Al contrario que en la **multimedia** tradicional, todo se produce en un mismo canal y de manera simultánea.
 
@@ -195,25 +207,23 @@ Por otro lado, no existe un marco diferenciado en el proceso para cada medio. Al
 
 El ejemplo que seleccionamos en este caso es el de la funcionalidad de Post-it.
 
-Post-it es un producto de oficina destinado a la toma de notas rápidas, lo que lo alinea claramente con Evernote. Lo curioso es que Post-it ha sido tradicionalmente un meidio de notas informal, destinadas estas a desaparecer en breve lapso de tiempo, o cuando menos a no ser archivadas ni organizadas de manera escrupulosa — mención a parte merecen las contraseñas pegadas al monitor, y otros tipos de Post-it perennes —.
+Post-it es un producto de oficina destinado a la toma de notas rápidas, lo que lo alinea claramente con Evernote. Lo curioso es que Post-it ha sido tradicionalmente un medio de notas informal, destinadas estas a desaparecer en breve lapso de tiempo, o cuando menos a no ser archivadas ni organizadas de manera escrupulosa — mención a parte merecen las contraseñas pegadas al monitor, y otros tipos de Post-it perennes —.
 
 Es un caso de hibridación con estructura de datos digitales continuos (mapa de bits) obtenidos desde una estructura analógica concreta (papel).
 
 Por lo tanto, este modelo simula un medio físico preexistente representándolo numéricamente para después otorgarle nuevas funcionalidades, como ser archivado siguiendo un patrón establecido por el usuario y guardado en la nube para su posterior acceso. 
 
-Evernote pone de relieve con esta aplicación el valor que sigue teniendo la toma de notas manuales, de manera que lejos de competir como cabría esperar, colabora con el proceso e intenta fundir la experiencia analógica y digital de manera orgánica, en un proceso lo más natural posible que parece seguir el enfoque lamarckiano de evolución, en el cual las nuevas capacidades aparecen de la necesidad concreta y existe un impulso vital hacia la perfección. 
+Evernote pone de relieve con esta aplicación el valor que sigue teniendo la toma de notas manuales, de manera que lejos de competir, como cabría esperar, colabora con el proceso e intenta fundir la experiencia analógica y digital de manera orgánica, en un proceso lo más natural posible que parece seguir el enfoque lamarckiano de evolución, en el cual las nuevas capacidades aparecen de la necesidad concreta y existe un impulso vital hacia la perfección. 
 
-Finalmente, valorar desde el año 2022 a donde nos va a llevar este proceso en los años venideros puede resultar complejo, teniendo en cuenta la propia naturaleza de la hibridación de sotware.
+Finalmente, valorar desde el año 2022 a donde nos va a llevar este proceso en los años venideros puede resultar complejo, teniendo en cuenta la propia naturaleza de la hibridación de software.
 
-Según se viene aputando, campos como la realidad aumentada, realidad virutual, gemelos digitales e IoT ya están siendo clave y van a seguir aumentando su presencia e influencia en las vidas de la gente, pero también cabría esperar que incluso estas materias que ahora mantienen un marco más o menos definido, acabarán hibridando entre ellas para traer nuevos modelos ahora insospechados.
+Según se viene apuntando, campos como la realidad aumentada, realidad virtual, gemelos digitales e IoT ya están siendo clave y van a seguir aumentando su presencia e influencia en las vidas de la gente, pero también cabría esperar que incluso estas materias que ahora mantienen un marco más o menos definido, acabarán hibridando entre ellas para traer nuevos modelos ahora insospechados.
 
 El lenguaje, la posibilidad de comunicarnos, hizo de nosotros lo que somos como especie. Hace gran parte de lo que somos como personas, integrándonos en una red de otros seres a los que nosotros damos forma y de los que tomamos forma.
 
 El software que tantas veces se representa como algo novedoso, no es más que la pulsión comunicativa que siempre nos ha caracterizado, refinada a través de milenios. Somos nosotros escribiendo. Ni más ni menos. 
 
-Lo que sí se puede asegurar sin ningún género de dudas, es que vamos a seguir escribiendo, vamos a seguir comunicando cosas a nuestros semejantes y vamos crear no solo lo que necesitemos, si no lo que sea posible. Porque es algo que está en nuestro ADN. Si algo se puede hacer, será hecho. Y casi nada se hace de una pieza ya. Todo es híbrido.
-
-
+Lo que sí se puede asegurar sin ningún género de dudas, es que vamos a seguir escribiendo, vamos a seguir comunicando cosas a nuestros semejantes y vamos a crear no solo lo que necesitemos, si no lo que sea posible. Porque es algo que está en nuestro ADN. Si algo se puede hacer, será hecho. Y casi nada se hace de una pieza ya. Todo es híbrido.
 
 
 ### Referencias y Bibliografía
@@ -228,7 +238,7 @@ Lo que sí se puede asegurar sin ningún género de dudas, es que vamos a seguir
 
 * **Remediación, multimedia e hibridación de los medios**. Ferrán Andell. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
-
+* **PEC3_Manovich_Reloaded**. Laura Orma (2022). https://github.com/LauraOrma/PEC3_Manovich_Reloaded
 
 ---
 
