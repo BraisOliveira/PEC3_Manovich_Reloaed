@@ -232,14 +232,13 @@ Lo que sí se puede asegurar sin ningún género de dudas, es que vamos a seguir
 
 * Matewecki, Natalia. **Hibridaciones visibles e invisibles en arte y medios**. Universidad Nacional de la Plata: Facultad de Bellas Artes. http://sedici.unlp.edu.ar/bitstream/handle/10915/40562/Documento_completo.pdf?sequence=1
 
-* **Le damos la vienvenida a Microsoft Teams**. Microsoft Docs. https://docs.microsoft.com/es-es/microsoftteams/teams-overview
+* Ferrán Andell. **Remediación, multimedia e hibridación de los medios**. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+
+* Laura Orma (2022). **PEC3_Manovich_Reloaded**. Universitat Oberta de Catalunya. https://github.com/LauraOrma/PEC3_Manovich_Reloaded
 
 * **Datadog: Cómo ofrecer a Evernote una visibilidad sin precedentes para servicios competitivos en la nube**. Google Cloud. https://cloud.google.com/customers/evernote?hl=es-419
 
-* **Remediación, multimedia e hibridación de los medios**. Ferrán Andell. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-
-* **PEC3_Manovich_Reloaded**. Laura Orma (2022). https://github.com/LauraOrma/PEC3_Manovich_Reloaded
-
+* **Le damos la vienvenida a Microsoft Teams**. Microsoft Docs. https://docs.microsoft.com/es-es/microsoftteams/teams-overview
 ---
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) 
