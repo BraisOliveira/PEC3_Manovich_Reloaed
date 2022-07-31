@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# Visionando el futuro. Dos aplicaciones.
 
 ### Evernote y Microsoft Teams 
 
